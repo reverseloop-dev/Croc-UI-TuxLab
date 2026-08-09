@@ -42,4 +42,4 @@ Croc UI si appoggia sul motore originale di `croc`. Assicurati di avere `croc` i
 
 ## 👤 Crediti e Autori
 
-Sviluppato con ❤️ da **TuxLab** / **reverseloop-dev**.
+Sviluppato con ❤️ da [TuxLab](https://tuxlab.site) / reverseloop-dev
