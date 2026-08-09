@@ -1,4 +1,4 @@
-# Croc UI (by TuxLab)
+# ⬆️ Croc UI ⬇️ (by TuxLab)
 
 <p align="center">
   <img src="assets/splash.png" alt="Croc UI Splash Screen" width="700">
