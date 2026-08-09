@@ -30,10 +30,11 @@ Croc UI si appoggia sul motore originale di `croc`. Assicurati di avere `croc` i
 
 ## 🚀 Come iniziare
 
-1. Scarica l'ultima release dalla sezione [Releases](../../releases).
-2. Avvia l'applicazione.
-3. Seleziona se desideri **Inviare** o **Ricevere** un file/cartella.
-4. Inserisci il codice univoco e avvia il trasferimento!
+1. Scarica l'ultima release dalla sezione [Releases](../../releases) (`.exe` per **Windows** o `.AppImage` per **Linux**).
+2. **Importante:** Posiziona ed estrai i file scaricati direttamente all'interno della stessa cartella in cui è installato ed eseguibile `croc`.
+3. Avvia l'applicazione (`Croc UI`).
+4. Seleziona se desideri **Inviare** o **Ricevere** un file/cartella.
+5. Inserisci il codice univoco e avvia il trasferimento!
 
 ---
 
