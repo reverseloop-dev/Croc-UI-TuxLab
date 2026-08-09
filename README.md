@@ -19,7 +19,7 @@ L'obiettivo principale di questo progetto è **semplificare lo scambio di file t
 * **Trasferimento di File e Cartelle:** Invia singoli file o intere directory con pochi click.
 * **Sicurezza Integrata:** Sfrutta la cifratura end-to-end fornita da *croc* (PAKE).
   
-*** Sebbene esistano già diverse GUI per *croc*, questo progetto nasce dalla specifica necessità di **semplificare al massimo l'esperienza visiva**, rendendo il processo intuitivo e immediato affinché chiunque possa capire al primo colpo d'occhio come inviare o ricevere file, senza complicazioni. ***
+*Sebbene esistano già diverse GUI per *croc*, questo progetto nasce dalla specifica necessità di **semplificare al massimo l'esperienza visiva**, rendendo il processo intuitivo e immediato affinché chiunque possa capire al primo colpo d'occhio come inviare o ricevere file, senza complicazioni.*
 
 ---
 
