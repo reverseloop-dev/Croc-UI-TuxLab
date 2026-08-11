@@ -4,9 +4,9 @@
 
 ## 📌 Info sul Progetto
 
-**Croc UI** è un'interfaccia grafica (GUI) moderna e intuitiva progettata per <a href="https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">CroC</a>, il potente strumento CLI che consente il trasferimento facile e sicuro di file e cartelle tra computer.
-
-
+**Croc UI** è un'interfaccia grafica (GUI) moderna e intuitiva progettata per <a href="https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">CroC</a>, il potente strumento CLI che consente il trasferimento facile e sicuro di file e cartelle tra computer. 
+</p>
+</p>
 
 <p align="center">
   <img src="assets/splash.png" alt="Croc UI Splash Screen" width="700">
