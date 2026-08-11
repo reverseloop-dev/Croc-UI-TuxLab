@@ -50,6 +50,11 @@ CroC UI si appoggia sul motore originale di `CroC`. Assicurati di avere `CroC` i
 4. Seleziona se desideri **Inviare** o **Ricevere** un file/cartella.
 5. Inserisci il codice univoco e avvia il trasferimento!
 
+<br>
+<p align="center">
+  <img src="assets/screen.png" alt="Screenshot" width="700">
+</p>
+<br>
 ---
 
 ## 👤 Crediti e Autori
