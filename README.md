@@ -38,6 +38,8 @@ L'obiettivo principale di questo progetto è semplificare al massimo lo scambio 
 Croc UI si appoggia sul motore originale di `croc`. Assicurati di avere `croc` installato sul tuo sistema o fai riferimento alla repository ufficiale:
 👉 <a href="https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">https://github.com/schollz/croc</a>
 
+> ⚠️ **Nota importante:** Tutti i client che comunicano tra loro devono utilizzare la **stessa versione** di `croc` per garantire la compatibilità.
+
 ---
 
 ## 🚀 Come iniziare
