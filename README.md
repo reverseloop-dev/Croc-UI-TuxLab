@@ -29,24 +29,24 @@ L'obiettivo principale di questo progetto è semplificare al massimo lo scambio 
 * **Trasferimento di File e Cartelle:** Invia singoli file o intere directory con pochi click.
 * **Sicurezza Integrata:** Sfrutta la cifratura end-to-end fornita da *croc* (PAKE).
   
-*Sebbene esistano già diverse GUI per *croc*, questo progetto nasce dalla specifica necessità di **semplificare al massimo l'esperienza visiva**, rendendo il processo intuitivo e immediato affinché chiunque possa capire al primo colpo d'occhio come inviare o ricevere file, senza complicazioni.*
+*Sebbene esistano già diverse GUI per *CroC*, questo progetto nasce dalla specifica necessità di **semplificare al massimo l'esperienza visiva**, rendendo il processo intuitivo e immediato affinché chiunque possa capire al primo colpo d'occhio come inviare o ricevere file, senza complicazioni.*
 
 ---
 
 ## 🛠️ Requisiti
 
-Croc UI si appoggia sul motore originale di `CroC`. Assicurati di avere `CroC` installato sul tuo sistema o fai riferimento alla repository ufficiale:
+CroC UI si appoggia sul motore originale di `CroC`. Assicurati di avere `CroC` installato sul tuo sistema o fai riferimento alla repository ufficiale:
 👉 <a href="https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">https://github.com/schollz/croc</a>
 
-> ⚠️ **Nota importante:** Tutti i client che comunicano tra loro devono utilizzare la **stessa versione** di `croc` per garantire la compatibilità.
+> ⚠️ **Nota importante:** Tutti i client che comunicano tra loro devono utilizzare la **stessa versione** di `CroC` per garantire la compatibilità.
 
 ---
 
 ## 🚀 Come iniziare
 
 1. Scarica l'ultima release CroC-UI dalla sezione <a href="https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/tag/definitivo" target="_blank" rel="noopener noreferrer">Releases</a> (`.exe` per **Windows** o `.AppImage` per **Linux**).
-2. **Importante:** Posiziona ed estrai i file scaricati direttamente all'interno della stessa cartella in cui è installato ed eseguibile `croc`.
-3. Avvia l'applicazione (`Croc UI`).
+2. **Importante:** Posiziona ed estrai i file scaricati direttamente all'interno della stessa cartella in cui è installato ed eseguibile `CroC`.
+3. Avvia l'applicazione (`CroC UI`).
 4. Seleziona se desideri **Inviare** o **Ricevere** un file/cartella.
 5. Inserisci il codice univoco e avvia il trasferimento!
 
