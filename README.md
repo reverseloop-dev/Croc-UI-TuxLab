@@ -18,8 +18,6 @@
 
 L'obiettivo principale di questo progetto è semplificare al massimo lo scambio di file tra **sistemi Windows, distribuzioni Linux e macchine virtuali,** offrendo una comoda e semplicissima GUI che elimina del tutto la necessità di utilizzare il terminale o la riga di comando.
 
-<br>
-<br>
 ---
 <br>
 <br>
