@@ -26,7 +26,7 @@ L'obiettivo principale di questo progetto è **semplificare lo scambio di file t
 ## 🛠️ Requisiti
 
 Croc UI si appoggia sul motore originale di `croc`. Assicurati di avere `croc` installato sul tuo sistema o fai riferimento alla repository ufficiale:
-👉 <a href="https://github.com/schollz/croc](https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">CroC</a>
+👉 <a href="https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">https://github.com/schollz/croc</a>
 
 ---
 
