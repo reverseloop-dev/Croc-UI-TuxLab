@@ -44,7 +44,7 @@ Croc UI si appoggia sul motore originale di `croc`. Assicurati di avere `croc` i
 
 ## 🚀 Come iniziare
 
-1. Scarica l'ultima release dalla sezione <a href="https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/tag/definitivo" target="_blank" rel="noopener noreferrer">Releases</a> (`.exe` per **Windows** o `.AppImage` per **Linux**).
+1. Scarica l'ultima release CroC-UI dalla sezione <a href="https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/tag/definitivo" target="_blank" rel="noopener noreferrer">Releases</a> (`.exe` per **Windows** o `.AppImage` per **Linux**).
 2. **Importante:** Posiziona ed estrai i file scaricati direttamente all'interno della stessa cartella in cui è installato ed eseguibile `croc`.
 3. Avvia l'applicazione (`Croc UI`).
 4. Seleziona se desideri **Inviare** o **Ricevere** un file/cartella.
