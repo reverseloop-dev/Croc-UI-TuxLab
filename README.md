@@ -26,7 +26,7 @@ L'obiettivo principale di questo progetto è **semplificare lo scambio di file t
 ## 🛠️ Requisiti
 
 Croc UI si appoggia sul motore originale di `croc`. Assicurati di avere `croc` installato sul tuo sistema o fai riferimento alla repository ufficiale:
-👉 [https://github.com/schollz/croc](https://github.com/schollz/croc)
+👉 <a href="https://github.com/schollz/croc](https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">CroC</a>
 
 ---
 
@@ -42,4 +42,4 @@ Croc UI si appoggia sul motore originale di `croc`. Assicurati di avere `croc` i
 
 ## 👤 Crediti e Autori
 
-Sviluppato con ❤️ da [TuxLab](https://tuxlab.site) / reverseloop-dev
+Sviluppato con ❤️ da <a href="https://tuxlab.site" target="_blank" rel="noopener noreferrer">TuxLab</a> / reverseloop-dev
