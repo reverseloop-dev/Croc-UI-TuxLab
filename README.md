@@ -40,6 +40,7 @@ CroC UI si appoggia sul motore originale di `CroC`. Assicurati di avere `CroC` i
 
 > ⚠️ **Nota importante:** Tutti i client che comunicano tra loro devono utilizzare la **stessa versione** di `CroC` per garantire la compatibilità.
 
+<br>
 ### 🪟 Windows
 Apri il **Prompt dei comandi** o **PowerShell** ed esegui:
 
