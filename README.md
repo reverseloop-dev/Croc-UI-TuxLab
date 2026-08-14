@@ -77,11 +77,12 @@ curl https://getcroc.com | bash
 
 ## 🚀 Come iniziare
 
-1. Scarica l'ultima release CroC-UI dalla sezione <a href="https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/tag/definitivo" target="_blank" rel="noopener noreferrer">Releases</a> (`.exe` per **Windows** o `.AppImage` per **Linux**).
-2. **Importante:** Posiziona ed estrai i file scaricati direttamente all'interno della stessa cartella in cui è installato ed eseguibile `CroC`.
-3. Avvia l'applicazione (`CroC UI`).
-4. Seleziona se desideri **Inviare** o **Ricevere** un file/cartella.
-5. Inserisci il codice univoco e avvia il trasferimento!
+1. **Scarica Croc UI:** Prendi l'ultima versione dalla sezione **Releases** (`.exe` per **Windows** oppure `.AppImage` per **Linux**).
+2. **Configurazione eseguibile:** 
+   * Posiziona l'eseguibile di Croc UI all'interno della **stessa cartella** in cui è presente l'eseguibile `croc`, **oppure** assicurati che `croc` sia aggiunto alle **variabili d'ambiente di sistema (PATH)**.
+3. **Avvio:** Apri l'applicazione (`Croc UI`).
+4. **Trasferimento:** Seleziona se desideri **Inviare** o **Ricevere** un file o una cartella.
+5. **Completamento:** Inserisci il codice univoco e avvia il trasferimento!
 
 <br>
 <p align="center">
