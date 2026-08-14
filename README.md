@@ -41,6 +41,12 @@ CroC UI si appoggia sul motore originale di `CroC`. Assicurati di avere `CroC` i
 > ⚠️ **Nota importante:** Tutti i client che comunicano tra loro devono utilizzare la **stessa versione** di `CroC` per garantire la compatibilità.
 <br>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Quick+Setup;Easy+%26+Fast+Installation" alt="Quick Setup" />
+  </a>
+</p>
+
 ### 🪟 Installazione di CroC su Windows
 1️⃣ Apri il **Prompt dei comandi** o **PowerShell** ed esegui:
 
