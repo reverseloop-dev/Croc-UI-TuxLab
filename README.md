@@ -80,6 +80,12 @@ curl https://getcroc.schollz.com | bash
   <img src="assets/screen.png" alt="Screenshot" width="700">
 </p>
 <br>
+
+<br>
+<p align="center">
+  <img src="assets/screen2.png" alt="Screenshot2" width="700">
+</p>
+<br>
 ---
 
 ## 👤 Crediti e Autori
