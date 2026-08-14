@@ -43,7 +43,7 @@ CroC UI si appoggia sul motore originale di `CroC`. Assicurati di avere `CroC` i
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Configurazione+Rapida;%F0%9F%91%87+Installazione+Semplice+%26+Veloce+%F0%9F%91%87" alt="Configurazione Rapida - TuxLab" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Configurazione+Rapida;Installazione+Semplice+%26+Veloce+%F0%9F%91%87" alt="Configurazione Rapida - TuxLab" />
     
 ### 🪟 Installazione di CroC su Windows
 1️⃣ Apri il **Prompt dei comandi** o **PowerShell** ed esegui:
