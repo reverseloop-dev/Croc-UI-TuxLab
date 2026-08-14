@@ -47,6 +47,7 @@ Apri il **Prompt dei comandi** o **PowerShell** ed esegui:
 ```bash
 winget install schollz.croc
 ```
+
 ### 🪟 CroC-UI su Windows
 
 👉 [CroC-UI Windows](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Win64.exe)
@@ -60,6 +61,7 @@ Apri il Terminale ed esegui:
 ```bash
 curl https://getcroc.schollz.com | bash 
 ```
+
 ### 🐧 CroC-UI su Linux
 👉 [CroC-UI Linux](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Linux.AppImage)
 
