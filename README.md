@@ -99,6 +99,6 @@ curl https://getcroc.com | bash
 
 ## 👤 Crediti e Autori
 
-Sviluppato con ❤️ da // reverseloop-dev //  
+CroC-UI sviluppato con ❤️ da // reverseloop-dev //  
 
 Un grande ringraziamento a [schollz](https://github.com/schollz) per aver creato e mantenuto il motore originale di `croc`. Se trovi utile il suo strumento, valuta di sostenere il suo lavoro tramite il suo [GitHub Sponsor](https://github.com/sponsors/schollz).
