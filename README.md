@@ -71,7 +71,7 @@ curl https://getcroc.schollz.com | bash 
 
 ### 🐧 Croc UI su Linux
 
-1️⃣ 👉 [Croc UI Linux](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Linux.AppImage)
+2️⃣ Scarica  👉 [Croc UI Linux](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Linux.AppImage)
 
 ---
 
