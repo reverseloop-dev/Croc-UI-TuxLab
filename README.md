@@ -35,37 +35,25 @@ L'obiettivo principale di questo progetto è semplificare al massimo lo scambio 
 
 ## 🛠️ Requisiti
 
-CroC UI si appoggia sul motore originale di `CroC`. Assicurati di avere `CroC` installato sul tuo sistema o fai riferimento alla repository ufficiale:
-👉 <a href="https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">https://github.com/schollz/croc</a>
+Croc UI si appoggia sul motore originale di `croc`. Assicurati di avere `croc` installato sul tuo sistema o fai riferimento alla repository ufficiale:  
+👉 [https://github.com/schollz/croc](https://github.com/schollz/croc)
 
-> ⚠️ **Nota importante:** Tutti i client che comunicano tra loro devono utilizzare la **stessa versione** di `CroC` per garantire la compatibilità.
+> ⚠️ **Nota importante:** Tutti i client che comunicano tra loro devono utilizzare la **stessa versione** di `croc` per garantire la compatibilità.
+
 <br>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Configurazione+Rapida;Installazione+Semplice+%26+Veloce+%F0%9F%91%87" alt="Configurazione Rapida - TuxLab" />  
-<br>
-    
-### 🪟 Installazione di CroC su Windows
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Configurazione+Rapida;%F0%9F%91%87+Installazione+Semplice+%26+Veloce+%F0%9F%91%87" alt="Configurazione Rapida - TuxLab" />
+  </a>
+</p>
+
+### 🪟 Installazione di croc su Windows
+
 1️⃣ Apri il **Prompt dei comandi** o **PowerShell** ed esegui:
 
 ```bash
 winget install schollz.croc
-```
-
-### 🪟 CroC-UI su Windows
-
-2️⃣ Scarica 👉 [CroC-UI Windows](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Win64.exe)
-<br>
-
----
-
-### 🐧 Installazione di CroC su Linux
-1️⃣ Apri il Terminale ed esegui:
-
-```bash
-curl https://getcroc.schollz.com | bash 
-```
 
 ### 🐧 CroC-UI su Linux
 2️⃣ Scarica 👉 [CroC-UI Linux](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Linux.AppImage)
