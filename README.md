@@ -66,7 +66,7 @@ winget install schollz.croc
 1️⃣ Apri il Terminale ed esegui:
 
 ```bash
-curl https://getcroc.schollz.com | bash 
+curl https://getcroc.com | bash
 ```
 
 ### 🐧 Croc UI su Linux
