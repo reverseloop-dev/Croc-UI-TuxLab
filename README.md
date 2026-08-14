@@ -86,7 +86,7 @@ curl https://getcroc.schollz.com | bash
   <img src="assets/screen2.png" alt="Screenshot2" width="700">
 </p>
 <br>
----
+
 
 ## 👤 Crediti e Autori
 
