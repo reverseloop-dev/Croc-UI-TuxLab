@@ -48,6 +48,7 @@ Croc UI si appoggia sul motore originale di `croc`. Assicurati di avere `croc` i
   </a>
 </p>
 
+
 ### 🪟 Installazione di croc su Windows
 
 1️⃣ Apri il **Prompt dei comandi** o **PowerShell** ed esegui:
