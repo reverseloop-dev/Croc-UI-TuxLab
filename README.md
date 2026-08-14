@@ -52,6 +52,8 @@ winget install schollz.croc
 👉 [CroC-UI Windows](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Win64.exe)
 <br>
 
+---
+
 ### 🐧 Installazione di CroC su Linux
 Apri il Terminale ed esegui:
 
