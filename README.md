@@ -41,21 +41,24 @@ CroC UI si appoggia sul motore originale di `CroC`. Assicurati di avere `CroC` i
 > ⚠️ **Nota importante:** Tutti i client che comunicano tra loro devono utilizzare la **stessa versione** di `CroC` per garantire la compatibilità.
 <br>
 
-### 🪟 Windows
+### 🪟 Installazione di CroC su Windows
 Apri il **Prompt dei comandi** o **PowerShell** ed esegui:
 
 ```bash
 winget install schollz.croc
 ```
+### 🪟 CroC-UI su Windows
+
 👉 [CroC-UI Windows](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Win64.exe)
 <br>
 
-### 🐧 Linux
+### 🐧 Installazione di CroC su Linux
 Apri il Terminale ed esegui:
 
 ```bash
 curl https://getcroc.schollz.com | bash 
 ```
+### 🐧 CroC-UI su Linux
 👉 [CroC-UI Linux](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Linux.AppImage)
 
 ---
