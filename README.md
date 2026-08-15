@@ -96,6 +96,15 @@ curl https://getcroc.com | bash
 </p>
 <br>
 
+---
+
+## 🖥️ Croc-commander Linux
+
+<br>
+<p align="center">
+  <img src="assets/screen3.png" alt="CroC-commander linux" width="700">
+</p>
+<br>
 
 ## 👤 Crediti e Autori
 
