@@ -1,0 +1,55 @@
+{
+  "name": "croc-commander",
+  "version": "1.0.0",
+  "description": "Croc Commander — retro dual-pane file manager with croc file transfer integration",
+  "author": "Croc Commander",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:linux": "electron-builder --linux AppImage",
+    "build:win": "electron-builder --win portable",
+    "build:win:installer": "electron-builder --win nsis",
+    "dist": "electron-builder --linux AppImage --win portable"
+  },
+  "devDependencies": {
+    "electron": "^33.0.0",
+    "electron-builder": "^25.0.0"
+  },
+  "build": {
+    "appId": "com.croc.commander",
+    "productName": "Croc Commander",
+    "executableName": "croc-commander",
+    "artifactName": "croc-commander-${version}-${arch}.${ext}",
+    "files": [
+      "main.js",
+      "preload.js",
+      "renderer.js",
+      "index.html",
+      "styles.css",
+      "assets/icon.png"
+    ],
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "icon": "assets/icon.png",
+      "category": "Utility",
+      "executableName": "croc-commander"
+    },
+    "win": {
+      "target": [
+        "portable"
+      ],
+      "icon": "assets/icon.png",
+      "signAndEditExecutable": false,
+      "artifactName": "croc-commander-${version}.${ext}"
+    },
+    "portable": {
+      "splashImage": "assets/splash.bmp"
+    }
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "nexe": "^5.0.0-beta.4"
+  }
+}

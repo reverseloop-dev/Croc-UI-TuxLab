@@ -1,0 +1,23 @@
+#!/bin/bash
+# croc-commander — Linux launcher for Croc Commander
+# Prefer the packaged AppImage (no FUSE2 needed), fall back to Electron from source.
+DIR="$(dirname "$(readlink -f "$0")")"
+APPIMAGE="$(ls "$DIR"/croc-commander-*.AppImage 2>/dev/null | head -1)"
+
+if [ -n "$APPIMAGE" ] && [ -f "$APPIMAGE" ]; then
+  export APPIMAGE_EXTRACT_AND_RUN=1
+  exec "$APPIMAGE" "$@"
+fi
+
+if [ -x "$DIR/node_modules/.bin/electron" ]; then
+  exec "$DIR/node_modules/.bin/electron" "$DIR" "$@"
+fi
+
+if [ -d "$DIR/dist/linux-unpacked" ] && [ -x "$DIR/dist/linux-unpacked/croc-commander" ]; then
+  exec "$DIR/dist/linux-unpacked/croc-commander" "$@"
+fi
+
+echo "croc-commander: AppImage not found."
+echo "  Build it:  ./build.sh"
+echo "  Or run:    npm install && npm start"
+exit 1

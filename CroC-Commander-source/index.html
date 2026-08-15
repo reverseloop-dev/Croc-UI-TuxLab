@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self'; img-src 'self' data:">
+  <title>Croc Commander</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-classic">
+  <div id="app">
+
+    <!-- Bandella superiore -->
+    <div id="topBanner" style="text-align:center;background:var(--bg);border-bottom:3px double var(--border);padding:2px 0;font-size:13px;font-weight:bold;color:var(--accent);letter-spacing:1px">croc-ui.tuxlab.site</div>
+
+    <!-- Barra menu -->
+    <div id="menuBar">
+      <div class="menu-item" data-menu="Left"><span class="hot">S</span>inistra</div>
+      <div class="menu-item" data-menu="Files"><span class="hot">F</span>ile</div>
+      <div class="menu-item" data-menu="Commands"><span class="hot">C</span>omandi</div>
+      <div class="menu-item" data-menu="Options"><span class="hot">O</span>pzioni</div>
+      <div class="menu-item" data-menu="Right"><span class="hot">D</span>estra</div>
+    </div>
+
+    <!-- Pannelli -->
+    <div id="panels">
+      <div class="panel active" id="pane-left">
+        <div class="pbox">
+          <div class="phead"><span class="phead-path" id="path-left"></span></div>
+          <div class="pcols" id="cols-left"></div>
+          <div class="plist" id="list-left" tabindex="-1"></div>
+          <div class="pfoot" id="foot-left"></div>
+        </div>
+      </div>
+      <div class="panel" id="pane-right">
+        <div class="pbox">
+          <div class="phead"><span class="phead-path" id="path-right"></span></div>
+          <div class="pcols" id="cols-right"></div>
+          <div class="plist" id="list-right" tabindex="-1"></div>
+          <div class="pfoot" id="foot-right"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Riga di comando -->
+    <div id="cmdRow">
+      <span id="cmdPrompt"></span>
+      <input id="cmdInput" type="text" autocomplete="off" spellcheck="false" aria-label="Riga di comando">
+    </div>
+
+    <!-- Barra tasti funzione -->
+    <div id="keyBar"></div>
+  </div>
+
+  <!-- Dialoghi -->
+  <div id="dlgRoot"></div>
+
+  <!-- Toast -->
+  <div id="toast"></div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>
