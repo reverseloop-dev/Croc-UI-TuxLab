@@ -33,7 +33,7 @@ L'obiettivo principale di questo progetto è semplificare al massimo lo scambio 
 
 ---
 
-correggi se ci sono errori ## 🛠️ Requisiti
+## 🛠️ Requisiti
 
 CroC UI si appoggia sul motore originale di `CroC`. Assicurati di avere `CroC` installato sul tuo sistema o fai riferimento alla repository ufficiale:
 👉 <a href="https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">https://github.com/schollz/croc</a>
