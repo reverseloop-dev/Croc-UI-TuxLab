@@ -57,32 +57,56 @@ CroC UI relies on the original `CroC` engine. Make sure you have `CroC` installe
 
 ```bash
 winget install schollz.croc
+```
+
 🪟 CroC-UI on Windows
-2️⃣ Download 👉 CroC-UI Windows
+2️⃣ Download 👉 [CroC-UI Windows](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Win64.exe)
+<br>
 
 
 🐧 Installing CroC on Linux
 1️⃣ Open the Terminal and run:
 
-Bash
-curl [https://getcroc.com](https://getcroc.com) | bash
+```bash
+curl https://getcroc.com | bash
+```
+
 🐧 Croc UI on Linux
-2️⃣ Download 👉 Croc UI Linux
+2️⃣ Download 👉 [Croc UI Linux](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Linux.AppImage)
 
 🚀 Getting Started
+
 Download Croc UI: Grab the latest release from the Releases section (.exe for Windows or .AppImage for Linux).
 
-Executable Setup:
-
+**Executable Setup:**
 Place the Croc UI executable inside the same folder where the croc executable is located, OR ensure that croc is added to your System Environment Variables (PATH).
+**Launch:** Open the application (Croc UI).
+**Transfer:** Choose whether you want to Send or Receive a file or folder.
+**Complete:** Enter the unique code and start the transfer!
 
-Launch: Open the application (Croc UI).
+<br>
+<p align="center">
+  <img src="assets/screen.png" alt="Screenshot" width="700">
+</p>
+<br>
 
-Transfer: Choose whether you want to Send or Receive a file or folder.
+<br>
+<p align="center">
+  <img src="assets/screen2.png" alt="Screenshot2" width="700">
+</p>
+<br>
 
-Complete: Enter the unique code and start the transfer!
+---
 
-🖥️ Croc-commander Linux
+## 🖥️ Croc-commander Linux
+
+<br>
+<p align="center">
+  <img src="assets/screen3.png" alt="CroC-commander linux" width="700">
+</p>
+<br>
+
+
 👤 Credits and Authors
 CroC-UI developed with ❤️ by // reverseloop-dev //
 
