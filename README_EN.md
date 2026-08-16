@@ -101,7 +101,7 @@ Place the Croc UI executable inside the same folder where the croc executable is
 
 ---
 
-## 🖥️ Croc-commander Linux
+## 🖥️ Croc-commander Linux (Nostalgic experiment)
 
 <br>
 <p align="center">
