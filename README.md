@@ -102,7 +102,7 @@ curl https://getcroc.com | bash
 
 ---
 
-## 🖥️ Croc-commander Linux
+## 🖥️ Croc-commander Linux (Nostalgic experiment)
 
 <br>
 <p align="center">
