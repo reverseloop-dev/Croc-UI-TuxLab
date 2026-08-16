@@ -1,5 +1,7 @@
 [🇮🇹 Italiano] | [🇬🇧 English](README_EN.md)
 
+---
+
 # ⬆️ Croc UI ⬇️ (by TuxLab)
 
 <br>
