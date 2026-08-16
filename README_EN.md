@@ -52,14 +52,14 @@ CroC UI relies on the original `CroC` engine. Make sure you have `CroC` installe
 </p>
 
     
-### 🪟 Installing CroC on Windows
+### 🪟 Installing CroC on Windows  
 1️⃣ Open **Command Prompt** or **PowerShell** and run:
 
 ```bash
 winget install schollz.croc
 ```
 
-🪟 CroC-UI on Windows
+🪟 CroC-UI on Windows  
 2️⃣ Download 👉 [CroC-UI Windows](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/download/definitivo/CroC-UI_1.0_Win64.exe)
 <br>
 
