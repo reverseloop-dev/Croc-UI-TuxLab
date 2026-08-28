@@ -11,7 +11,7 @@
 
 
 **CroC UI** is a modern and intuitive graphical user interface (GUI) designed for <a href="https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">CroC</a>, the powerful CLI tool that allows easy and secure transfer of files and folders between computers.
- [Croc UI FULL-repo](https://github.com/reverseloop-dev/Croc-UI-TuxLab)
+ [Croc-UI-tuxlab FULL-repo](https://github.com/reverseloop-dev/Croc-UI-TuxLab)
  
 ---
 
