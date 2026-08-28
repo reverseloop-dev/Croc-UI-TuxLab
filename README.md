@@ -11,7 +11,7 @@
 
 
 **CroC UI** è un'interfaccia grafica (GUI) moderna e intuitiva progettata per <a href="https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">CroC</a>, il potente strumento CLI che consente il trasferimento facile e sicuro di file e cartelle tra computer. 
- [Croc UI FULL-repo](https://github.com/reverseloop-dev/Croc-UI-TuxLab)
+ [Croc-UI-tuxlab FULL-repo](https://github.com/reverseloop-dev/Croc-UI-TuxLab)
 
 ---
 
@@ -112,6 +112,6 @@ curl https://getcroc.com | bash
 <br>
 
 ## 👤 Crediti e Autori  
-CroC-UI sviluppato con ❤️ da // reverseloop-dev //  [Croc UI FULL-repo](https://github.com/reverseloop-dev/Croc-UI-TuxLab)
+CroC-UI sviluppato con ❤️ da // reverseloop-dev //  [Croc-UI-tuxlab FULL-repo](https://github.com/reverseloop-dev/Croc-UI-TuxLab)
 
 Un grande ringraziamento a [schollz](https://github.com/schollz) per aver creato e mantenuto il motore originale di `croc`. Se trovi utile il suo strumento, valuta di sostenere il suo lavoro tramite il suo [GitHub Sponsor](https://github.com/sponsors/schollz).
