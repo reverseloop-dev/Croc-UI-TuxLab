@@ -11,7 +11,8 @@
 
 
 **CroC UI** is a modern and intuitive graphical user interface (GUI) designed for <a href="https://github.com/schollz/croc" target="_blank" rel="noopener noreferrer">CroC</a>, the powerful CLI tool that allows easy and secure transfer of files and folders between computers.
-
+ [Croc UI FULL-repo](https://github.com/reverseloop-dev/Croc-UI-TuxLab)
+ 
 ---
 
 <br>
@@ -115,6 +116,6 @@ Place the Croc UI executable inside the same folder where the croc executable is
 ---
 
 👤 Credits and Authors
-CroC-UI developed with ❤️ by // reverseloop-dev //
+CroC-UI developed with ❤️ by // reverseloop-dev //  [Croc UI FULL-repo](https://github.com/reverseloop-dev/Croc-UI-TuxLab)
 
 Big thanks to schollz for creating and maintaining the original croc engine. If you find his tool useful, consider supporting his work via GitHub Sponsors.
