@@ -116,6 +116,6 @@ Place the Croc UI executable inside the same folder where the croc executable is
 ---
 
 👤 Credits and Authors
-CroC-UI developed with ❤️ by // reverseloop-dev //  [Croc UI FULL-repo](https://github.com/reverseloop-dev/Croc-UI-TuxLab)
+CroC-UI developed with ❤️ by // reverseloop-dev //  [File Release repo](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/tag/definitivo)
 
 Big thanks to schollz for creating and maintaining the original croc engine. If you find his tool useful, consider supporting his work via GitHub Sponsors.
