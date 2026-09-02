@@ -112,6 +112,6 @@ curl https://getcroc.com | bash
 <br>
 
 ## 👤 Crediti e Autori  
-CroC-UI sviluppato con ❤️ da // reverseloop-dev //  [Croc-UI-tuxlab FULL-repo](https://github.com/reverseloop-dev/Croc-UI-TuxLab)
+CroC-UI sviluppato con ❤️ da // reverseloop-dev //  [Files Release REPO](https://github.com/reverseloop-dev/Croc-UI-TuxLab/releases/tag/definitivo)
 
 Un grande ringraziamento a [schollz](https://github.com/schollz) per aver creato e mantenuto il motore originale di `croc`. Se trovi utile il suo strumento, valuta di sostenere il suo lavoro tramite il suo [GitHub Sponsor](https://github.com/sponsors/schollz).
